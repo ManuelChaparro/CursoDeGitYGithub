@@ -10,3 +10,10 @@ body {
     margin: 0 auto;
     border: 1px solid gray;
 }
+
+#cabecera {
+    color: white;
+    background-color: goldenrod;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+}
