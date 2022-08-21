@@ -13,8 +13,16 @@ body {
 }
 
 #cabecera {
+    display: flex;
     color: white;
     background-color: goldenrod;
     font-family: 'Courier New', Courier, monospace;
     font-size: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.poyito {
+    width: 5rem;
+    height: 5rem;
 }
